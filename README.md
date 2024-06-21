@@ -1,6 +1,6 @@
 # Fire Emblem Graphics Repository
 
-Discord Server: https://discord.gg/C7VNGnyTPA
+Discord Server: [<redacted>](https://feuniverse.us/t/the-repo-discord-is-now-banned-from-feu/25911/7)
 
 This is a public free to use and (sometimes) free to edit repository of graphics for Fire Emblem romhacking, Tactile Game creation, and Lex Talionis game creation. There are probably other Fire Emblem game creation tools that can use the resources in this repository, too.
 
